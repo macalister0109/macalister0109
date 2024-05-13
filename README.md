@@ -12,6 +12,8 @@ Habilidades: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for
 - 🌱 Estoy aprendiendo ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) / ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/macalister0109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mjamett/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/macalister0109/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](www.mjamett.cl)  
+
+- Si uso mucho el Papyrus es por el uso de Pseudódigo Pseint :3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macalister0109)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macalister0109&show_icons=true)  
