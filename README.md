@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hola 👋, mi nombre es Macarena</h1>
-<h2>Soy una docente de Informática e ingeniero informatico.</h2>
+<h2>Soy una docente de Informática y programación.</h2>
 <img src="https://mjamett.cl/assets/img/logo12.png" />
  
 <p>Soy una programadora en constante estudio, me dedico a la docencia de en la especialidad de programación del Colegio Marista Marcelino Champagnat - La Pintana.</p>
