@@ -1,3 +1,4 @@
+<p align="center">
 ### Hola 👋, mi nombre es Macarena
 #### Soy una docente de Informática e ingeniero informatico.
 ![soy una docente de Informatica e ingeniero informatico.](https://mjamett.cl/assets/img/logo12.png)
@@ -13,4 +14,6 @@ Habilidades: HTML / CSS / SQL / JAVA / PHP /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macalister0109)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macalister0109&show_icons=true)  
+
+</p>
 
