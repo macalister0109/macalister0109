@@ -7,7 +7,7 @@
 <p>Actualmente estoy actualizando mis conocimientos en la academia Desafío Latam en el curso de desarrollador fullstack JS</p>
 <p>También realizo trabajos independientes en reparación y configuración de computadoras y otros trabajos de desarrollo.</p>
 
-Habilidades: HTML / CSS / SQL / JAVA / PHP /
+Habilidades: HTML / CSS / ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)SQL / JAVA / PHP /
 
 - 🌱 Estoy aprendiendo JS / REACT
   
