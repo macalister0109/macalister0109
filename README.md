@@ -3,8 +3,8 @@
 <h2>Soy una docente de Informática e ingeniero informatico.</h2>
 <img src="https://mjamett.cl/assets/img/logo12.png" />
  
-Soy una programadora en constante estudio, me dedico a la docencia de en la especialidad de programación del Colegio Marista Marcelino Champagnat - La Pintana.
-También realizo trabajos independientes en reparación y configuración de computadoras y otros trabajos de desarrollo.
+<p>Soy una programadora en constante estudio, me dedico a la docencia de en la especialidad de programación del Colegio Marista Marcelino Champagnat - La Pintana.</p>
+<p>También realizo trabajos independientes en reparación y configuración de computadoras y otros trabajos de desarrollo.</p>
 
 Habilidades: HTML / CSS / SQL / JAVA / PHP /
 
