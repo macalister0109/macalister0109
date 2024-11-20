@@ -19,6 +19,9 @@ Habilidades: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macalister0109&show_icons=true)  
 
 - Si uso mucho el Papyrus es por el uso de Pseudódigo Pseint :3
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 </div>
 
 
