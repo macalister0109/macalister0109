@@ -14,7 +14,25 @@ Habilidades: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/macalister0109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mjamett/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/macalister0109/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](www.mjamett.cl)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macalister0109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+name: Metrics
+on:
+  # Se ejecuta cada 24 horas
+  schedule: [{cron: "0 0 * * *"}]
+  # Se ejecuta si haces un push manual
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Aquí definimos qué queremos mostrar
+          plugin_languages: yes
+          plugin_languages_threshold: 2%
 
 - Si uso mucho el Papyrus es por el uso de Pseudódigo Pseint :3
 
